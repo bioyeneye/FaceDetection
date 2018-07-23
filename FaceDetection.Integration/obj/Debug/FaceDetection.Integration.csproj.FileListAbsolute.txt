@@ -1,0 +1,6 @@
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\bin\Debug\FaceDetection.Integration.dll
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\bin\Debug\FaceDetection.Integration.pdb
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\obj\Debug\FaceDetection.Integration.csprojAssemblyReference.cache
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\obj\Debug\FaceDetection.Integration.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\obj\Debug\FaceDetection.Integration.dll
+c:\users\pc\source\repos\DetectFace\FaceDetection.Integration\obj\Debug\FaceDetection.Integration.pdb
